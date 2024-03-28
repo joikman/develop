@@ -7,3 +7,4 @@ def get_capitalize(text):
 # в строке, поступившей на вход функции.
 def get_title(text):
     return text.capitalize()
+# Вот и всё!
